@@ -2,18 +2,16 @@
   "schemaVersion": 1,
   "revision": 1,
   "updatedAtUtc": "2026-09-25T00:00:00Z",
-
   "seller": {
     "name": "XiaoNan Software",
     "displayName": "小南软件",
-
     "contact": {
       "title": "联系商家",
-      "email": "2754702110aeiou@gmail.com"，
-      "QQ邮箱": "2754702110@qq.com"，
-      "闲鱼": "小南家RVC模型"，
-      "X": "@JIA2754"，
-      "Telegram": "@XiaoNanJ"，
+      "email": "2754702110aeiou@gmail.com",
+      "QQ邮箱": "2754702110@qq.com",
+      "闲鱼": "小南家RVC模型",
+      "X": "@JIA2754",
+      "Telegram": "@XiaoNanJ"
     }
   }
 }
