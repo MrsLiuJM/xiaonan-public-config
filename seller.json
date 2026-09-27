@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
+  "revision": 3,
   "updatedAtUtc": "2026-09-27T09:00:00Z",
   "seller": {
     "name": "XiaoNan Software",
@@ -14,8 +14,12 @@
       "Telegram-ID": "@XiaoNanJ",
       "QQ": "2754702110",
       "website": "192.168.0.0",
-      "storeUrl": "192.168.0.0",
-      "documentationUrl": "192.168.0.0"
+      "storeUrl": "192.168.0.1",
+      "documentationUrl": "192.168.0.2",
+"activationServiceUrls": [
+  "192.168.0.3",
+  "192.168.0.4"
+]
     }
   },
   "notice": {
