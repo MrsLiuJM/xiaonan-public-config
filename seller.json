@@ -1,17 +1,25 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "updatedAtUtc": "2026-09-25T00:00:00Z",
+  "revision": 2,
+  "updatedAtUtc": "2026-09-27T09:00:00Z",
   "seller": {
     "name": "XiaoNan Software",
     "displayName": "小南软件",
     "contact": {
       "title": "联系商家",
-      "email": "2754702110aeiou@gmail.com",
+      "gmail": "2754702110aeiou@gmail.com",
       "QQ邮箱": "2754702110@qq.com",
-      "闲鱼": "小南家RVC模型",
-      "X": "@JIA2754",
-      "Telegram": "@XiaoNanJ"
+      "闲鱼店铺": "小南家RVC模型",
+      "X-ID": "@JIA2754",
+      "Telegram-ID": "@XiaoNanJ",
+      "QQ": "2754702110",
+      "website": "192.168.0.0",
+      "storeUrl": "192.168.0.0",
+      "documentationUrl": "192.168.0.0"
     }
+  },
+  "notice": {
+    "title": "版本通知",
+    "body": "这里填写需要显示在客户端消息中心的公告内容。"
   }
 }
