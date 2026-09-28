@@ -13,12 +13,12 @@
       "X-ID": "@JIA2754",
       "Telegram-ID": "@XiaoNanJ",
       "QQ": "2754702110",
-      "website": "192.168.0.0",
-      "storeUrl": "192.168.0.1",
-      "documentationUrl": "192.168.0.2",
+      "website": "https://github.com/MrsLiuJM/xiaonan-public-config",
+      "storeUrl": "https://github.com/MrsLiuJM/xiaonan-public-config",
+      "documentationUrl": "https://github.com/MrsLiuJM/xiaonan-public-config",
 "activationServiceUrls": [
-  "192.168.0.3",
-  "192.168.0.4"
+  "https://github.com/MrsLiuJM/xiaonan-public-config",
+  "https://github.com/MrsLiuJM/xiaonan-public-config"
 ]
     }
   },
